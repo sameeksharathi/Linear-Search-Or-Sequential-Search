@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class LargestAndSmallestElementMain{
     public static void main(String[] args) {
         LargestAndSmallestElementInArray obj=new LargestAndSmallestElementInArray();
